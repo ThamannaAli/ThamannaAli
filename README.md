@@ -19,5 +19,5 @@ Currently learning the **data analysis lifecycle** and building hands-on experie
 
 Feel free to check out my repositories to see my work!  
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](#)
+(add LinkedIn)
 -
